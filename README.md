@@ -16,3 +16,10 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 
 
 1. SAGAS
+
+
+## Network
+
+### RFC
+
+1. [RFC7519 - JSON Web Token (JWT)](https://datatracker.ietf.org/doc/rfc7519/)
