@@ -23,3 +23,7 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 ### RFC
 
 1. [RFC7519 - JSON Web Token (JWT)](https://datatracker.ietf.org/doc/rfc7519/)
+2. [RFC1948 - Defending Against Sequence Number Attacks](https://datatracker.ietf.org/doc/rfc1948/)
+3. [RFC793 - Transmission Control Protocol](https://datatracker.ietf.org/doc/rfc793/)
+4. [RFC1122 - Requirements for Internet Hosts - Communication Layers](https://datatracker.ietf.org/doc/rfc1122/)
+5. [RFC2993 - An Extension to the Selective Acknowledgement (SACK) Option for TCP](https://datatracker.ietf.org/doc/rfc2883/)
