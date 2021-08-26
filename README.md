@@ -8,6 +8,10 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 2. [JSR-166: Concurrency Utilities](http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf)
 
 
+### Shenandoah
+1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
+2. [Shenandoah GC Part II: I See You Have Your Fancy GC](https://shipilev.net/talks/joker-Nov2017-shenandoah-II.pdf)
+
 ## Go
 
 1. The Go Programming Language
