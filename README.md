@@ -7,6 +7,9 @@
 Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec-oth-JSpec/memory_model-1_0-pfd-spec.pdf?AuthParam=1628218765_fb5c1bf3a1ad50d8affca279afdf3d2c)
 2. [JSR-166: Concurrency Utilities](http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf)
 
+### JVM
+1. [Memory Management in the Java HotSpot™ Virtual Machine](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
+
 
 ### Shenandoah
 1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
