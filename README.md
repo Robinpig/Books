@@ -9,7 +9,7 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 
 ### JVM
 1. [Memory Management in the Java HotSpot™ Virtual Machine](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
-
+2. [Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/en/java/javase/12/gctuning/hotspot-virtual-machine-garbage-collection-tuning-guide.pdf)
 
 ### Shenandoah
 1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
