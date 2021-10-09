@@ -47,7 +47,7 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 8. [Scaling Distributed Machine Learning with the Parameter Server](https://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf)
 9. [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
 10. [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-11. [S4: Distributed Stream Computing Platform[(http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/S4PaperV2.pdf)
+11. [S4: Distributed Stream Computing Platform](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/S4PaperV2.pdf)
 
 
 ## ML
