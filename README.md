@@ -34,3 +34,21 @@ Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec
 3. [RFC793 - Transmission Control Protocol](https://datatracker.ietf.org/doc/rfc793/)
 4. [RFC1122 - Requirements for Internet Hosts - Communication Layers](https://datatracker.ietf.org/doc/rfc1122/)
 5. [RFC2993 - An Extension to the Selective Acknowledgement (SACK) Option for TCP](https://datatracker.ietf.org/doc/rfc2883/)
+
+
+## Distributed Systems
+1. [The Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
+2. [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
+3. [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/bigtable-osdi06.pdf)
+4. [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
+5. [Finding a needle in Haystack: Facebook’s photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+6. [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency ](https://www.cs.purdue.edu/homes/csjgwang/cloudb/AzureStorageSOSP11.pdf)
+7. [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+8. [Scaling Distributed Machine Learning with the Parameter Server](https://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf)
+9. [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
+10. [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+11. [S4: Distributed Stream Computing Platform[(http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/S4PaperV2.pdf)
+
+
+## ML
+1. [GraphLab: A New Framework For Parallel Machine Learning](https://arxiv.org/pdf/1408.2041.pdf)
