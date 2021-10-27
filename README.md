@@ -4,8 +4,9 @@
 ## Java
 
 1. [JSR-133: JavaTM Memory Model and Thread
-Specification](https://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec-oth-JSpec/memory_model-1_0-pfd-spec.pdf?AuthParam=1628218765_fb5c1bf3a1ad50d8affca279afdf3d2c)
+Specification](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 2. [JSR-166: Concurrency Utilities](http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf)
+3. [Concurrency Utilities for Java EE](http://gee.cs.oswego.edu/dl/concurrencyee-interest/ConcurrencyUtilsEE_Early_Draft_Preview_V01.pdf)
 
 ### JVM
 1. [Memory Management in the Java HotSpot™ Virtual Machine](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
