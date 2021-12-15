@@ -3,14 +3,17 @@
 
 ## Java
 
-1. [JSR-133: JavaTM Memory Model and Thread
-Specification](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
+1. [JSR-133: JavaTM Memory Model and Thread Specification](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 2. [JSR-166: Concurrency Utilities](http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf)
 3. [Concurrency Utilities for Java EE](http://gee.cs.oswego.edu/dl/concurrencyee-interest/ConcurrencyUtilsEE_Early_Draft_Preview_V01.pdf)
 
 ### JVM
 1. [Memory Management in the Java HotSpot™ Virtual Machine](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
 2. [Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/en/java/javase/12/gctuning/hotspot-virtual-machine-garbage-collection-tuning-guide.pdf)
+3. A Fast Write Barrier for Generational Garbage Collectors
+4. Garbage-First Garbage Collection
+5. Remembered sets can also play cards
+
 
 ### Shenandoah
 1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
