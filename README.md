@@ -18,6 +18,7 @@
 ### Shenandoah
 1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
 2. [Shenandoah GC Part II: I See You Have Your Fancy GC](https://shipilev.net/talks/joker-Nov2017-shenandoah-II.pdf)
+3. [Shenandoah: An open-source concurrent compacting garbage collector for OpenJDK](https://tech-notes.accel.dk/programming/java/java12/docs/PPPJ2016.pdf)
 
 ## Go
 
