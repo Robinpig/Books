@@ -13,6 +13,7 @@
 3. A Fast Write Barrier for Generational Garbage Collectors
 4. Garbage-First Garbage Collection
 5. Remembered sets can also play cards
+6. Generation_Scavenging_A_Non-Disruptive_High_Perfor
 
 
 ### Shenandoah
