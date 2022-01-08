@@ -20,6 +20,9 @@
 1. [Shenandoah GC Part I: The Garbage Collector That Could](https://shipilev.net/talks/devoxx-Nov2017-shenandoah.pdf)
 2. [Shenandoah GC Part II: I See You Have Your Fancy GC](https://shipilev.net/talks/joker-Nov2017-shenandoah-II.pdf)
 3. [Shenandoah: An open-source concurrent compacting garbage collector for OpenJDK](https://tech-notes.accel.dk/programming/java/java12/docs/PPPJ2016.pdf)
+3. [Shenandoah: An ultra-low pause time garbage collector for OpenJDK - Red Hat](https://christineflood.files.wordpress.com/2014/10/shenandoahjavaone1.pdf)
+3. [Shenandoah: Theory and Practice - Red Hat](https://archive.fosdem.org/2016/schedule/event/shenandoah2016/attachments/slides/1268/export/events/attachments/shenandoah2016/slides/1268/Shenandoah2016.pdf)
+6. [Trading data space for reduced time and code space in real-time garbage collection on stock hardware](https://dl.acm.org/doi/10.1145/800055.802042)
 
 ## Go
 
