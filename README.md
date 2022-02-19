@@ -1,5 +1,9 @@
 Shared Books 
 
+## Data Structures and Algorithms
+
+1. [Pancake Flipping Is Hard](https://arxiv.org/pdf/1111.0434v1.pdf)
+
 
 ## Java
 
