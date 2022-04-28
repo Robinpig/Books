@@ -5,6 +5,10 @@ Shared Books
 1. [Pancake Flipping Is Hard](https://arxiv.org/pdf/1111.0434v1.pdf)
 
 
+## Operating Systems
+
+1. [Towards Transparent CPU Scheduling](https://research.cs.wisc.edu/adsl/Publications/meehean-thesis11.pdf)
+
 ## Java
 
 1. [JSR-133: JavaTM Memory Model and Thread Specification](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
