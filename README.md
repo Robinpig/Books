@@ -40,6 +40,7 @@ Shared Books
 
 
 1. SAGAS
+2. [Efficient Locking for Concurrent Operations on B-Trees](https://www.cs.utexas.edu/users/dsb/cs386d/Readings/ConcurrencyControl/Lehman-Yao.pdf)
 
 
 ## Network
