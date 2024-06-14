@@ -108,3 +108,13 @@ Shared Books
 
 ## ML
 1. [GraphLab: A New Framework For Parallel Machine Learning](https://arxiv.org/pdf/1408.2041.pdf)
+
+## MQ
+
+### Kafka
+
+1. [Apache Kafka源码剖析]()
+2. [Kafka技术内幕]()
+3. [深入理解Kafka核心设计与实践原理]()
+
+
