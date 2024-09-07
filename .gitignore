@@ -1,1 +1,41 @@
-/.idea/
+# Eclipse project files
+.project
+.classpath
+.settings
+
+# IntelliJ IDEA project files and directories
+*.iml
+*.ipr
+*.iws
+.idea/
+.shelf/
+out/
+
+# Build targets
+/target
+*/target
+
+# Report directories
+/reports
+*/reports
+
+# Mac-specific directory that no other operating system needs.
+.DS_Store
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# JVM dumps
+*.hprof.xz
+*.threads
+
+# exclude obsidian files
+*/.obsidian/
+
+# exclude vscode files
+.vscode/
+*.factorypath
+
+
+**/*.java
