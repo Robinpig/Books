@@ -43,6 +43,12 @@ Shared Books
 2. [Efficient Locking for Concurrent Operations on B-Trees](https://www.cs.utexas.edu/users/dsb/cs386d/Readings/ConcurrencyControl/Lehman-Yao.pdf)
 
 
+
+### MySQL
+
+1. [MySQL是怎样运行起来的 从根儿上理解MySQL](https://book-how-mysql-runs.netlify.app/#/)
+
+
 ## Network
 
 ### RFC
@@ -116,5 +122,4 @@ Shared Books
 1. [Apache Kafka源码剖析]()
 2. [Kafka技术内幕]()
 3. [深入理解Kafka核心设计与实践原理]()
-
 
